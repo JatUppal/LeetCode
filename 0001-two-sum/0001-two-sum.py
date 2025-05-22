@@ -5,10 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        result = []
+        seen = {}
         for i, n in enumerate(nums):
-            for j, m in enumerate(nums):
-                if (i != j and (n + m) == target):
-                    result.append(i)
-        return result
+            complement = target - n
+            if complement in seen:
+                return [seen[complement], i]
+            seen[n] = i
         
