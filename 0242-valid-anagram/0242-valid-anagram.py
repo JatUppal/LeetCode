@@ -5,7 +5,7 @@ class Solution:
         count2 = Counter(t)
         longer = s; 
         if len(s) < len(t):
-            longer = t;
+            longer = t
         for char in longer:
             if (char not in count2 or count1[char] != count2[char]):
                 return False
