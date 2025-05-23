@@ -6,7 +6,7 @@ class Solution:
         for char in s:
             if char in mapping.values():
                 stack.append(char)
-            if char in mapping.keys():
+            elif char in mapping.keys():
                 if not stack:
                     return False
                 if mapping[char] != stack[-1]:
