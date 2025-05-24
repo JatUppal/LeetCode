@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JatUppal/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/JatUppal/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JatUppal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0271-encode-and-decode-strings](https://github.com/JatUppal/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/JatUppal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JatUppal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JatUppal/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/JatUppal/LeetCode/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/JatUppal/LeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JatUppal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/JatUppal/LeetCode/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
