@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/JatUppal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/JatUppal/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/JatUppal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/JatUppal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0739-daily-temperatures](https://github.com/JatUppal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/JatUppal/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JatUppal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/JatUppal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JatUppal/LeetCode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/JatUppal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/JatUppal/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/JatUppal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JatUppal/LeetCode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/JatUppal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
 | ------- |
