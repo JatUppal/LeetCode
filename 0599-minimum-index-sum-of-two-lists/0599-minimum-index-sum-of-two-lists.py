@@ -5,7 +5,7 @@ class Solution:
         for i in range(len(list2)):
             if list2[i] in dict1.keys():
                 sums = i + dict1[list2[i]]
-                if sums not in res:
+                if sums not in res.keys():
                     res[sums] = []
                 res[sums].append(list2[i])
         return res[min(res.keys())]
