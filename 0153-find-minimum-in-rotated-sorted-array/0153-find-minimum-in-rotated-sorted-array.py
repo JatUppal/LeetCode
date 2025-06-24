@@ -6,17 +6,12 @@ class Solution:
             return min(nums[0], nums[1])
         res = math.inf
         l, r = 0, len(nums) - 1
-        mid = ((l + r) // 2)
-        if nums[mid] < nums[r]:
-            start = l
-            end = mid
-        else:
-            start = mid
-            end = r
-        while start <= end:
-            if res > nums[start]:
-                res = nums[start]
-            start += 1
+        while l < r:
+            mid = ((l + r) // 2)
+            if nums[mid] > nums[r]:
+                l = mid + 1
+            else:
+                r = mid
+            if res > nums[l]:
+                res = nums[l]
         return res
-        
-        
