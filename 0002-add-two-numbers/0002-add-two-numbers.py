@@ -3,6 +3,9 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+# Understand - Inputs: 2 linked lists, Output, 1 single linked list. contraints each range [1,100]
+# each node value between 0 and 9
+# Implement - dummy Node, temp to dummy
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode(0)
