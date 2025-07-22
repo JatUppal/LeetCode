@@ -3,31 +3,38 @@ from typing import List
 class Twitter:
 
     def __init__(self):
-        self.following = {}  # {followerId: set of followeeIds}
-        self.tweets = []     # list of [userId, tweetId]
+        self.count = 0
+        self.following = defaultdict(set)
+        self.tweets = defaultdict(list) 
 
     def postTweet(self, userId: int, tweetId: int) -> None:
-        self.tweets.append([userId, tweetId])
+        self.tweets[userId].append([self.count, tweetId])
+        self.count -= 1
 
     def getNewsFeed(self, userId: int) -> List[int]:
         # Include the user's own tweets in their feed
-        feed_users = self.following.get(userId, set()) | {userId}
+        minHeap = []
         res = []
 
-        # Traverse tweets from most recent to oldest
-        for i in range(len(self.tweets) - 1, -1, -1):
-            if self.tweets[i][0] in feed_users:
-                res.append(self.tweets[i][1])
-            if len(res) == 10:
-                break
+        self.following[userId].add(userId)
+        for followee in self.following[userId]:
+            if followee in self.tweets:
+                index = len(self.tweets[followee]) - 1
+                count, tweetId = self.tweets[followee][index]
+                minHeap.append([count, tweetId, followee, index - 1])
+        heapq.heapify(minHeap)
+        while minHeap and len(res) < 10:
+            count, tweetId, followee, index = heapq.heappop(minHeap)
+            res.append(tweetId)
 
+            if index >= 0:
+                count, tweetId = self.tweets[followee][index]
+                heapq.heappush(minHeap, [count, tweetId, followee, index - 1])
         return res
 
     def follow(self, followerId: int, followeeId: int) -> None:
-        if followerId not in self.following:
-            self.following[followerId] = set()
         self.following[followerId].add(followeeId)
 
     def unfollow(self, followerId: int, followeeId: int) -> None:
-        if followerId in self.following:
-            self.following[followerId].discard(followeeId)
+        if followeeId in self.following[followerId]:
+            self.following[followerId].remove(followeeId)
