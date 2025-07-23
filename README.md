@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JatUppal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JatUppal/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/JatUppal/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0306-additive-number](https://github.com/JatUppal/LeetCode/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/JatUppal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/JatUppal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/JatUppal/LeetCode/tree/master/0567-permutation-in-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JatUppal/LeetCode/tree/master/0022-generate-parentheses) |
+| [0306-additive-number](https://github.com/JatUppal/LeetCode/tree/master/0306-additive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
