@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/JatUppal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/JatUppal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/JatUppal/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/JatUppal/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/JatUppal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/JatUppal/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/JatUppal/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/JatUppal/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/JatUppal/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/JatUppal/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/JatUppal/LeetCode/tree/master/0078-subsets) |
 | [0306-additive-number](https://github.com/JatUppal/LeetCode/tree/master/0306-additive-number) |
 ## Bit Manipulation
