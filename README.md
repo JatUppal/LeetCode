@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/JatUppal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JatUppal/LeetCode/tree/master/1127-last-stone-weight) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JatUppal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JatUppal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0631-design-excel-sum-formula](https://github.com/JatUppal/LeetCode/tree/master/0631-design-excel-sum-formula) |
 | [1023-time-based-key-value-store](https://github.com/JatUppal/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JatUppal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Stack
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JatUppal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JatUppal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 ## Backtracking
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/JatUppal/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/JatUppal/LeetCode/tree/master/0078-subsets) |
 | [0306-additive-number](https://github.com/JatUppal/LeetCode/tree/master/0306-additive-number) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 ## Bit Manipulation
 |  |
 | ------- |
