@@ -18,4 +18,5 @@ class Solution:
                     if newWord in wordSet:
                         q.append((newWord, steps + 1))
                         wordSet.remove(newWord)
+
         return 0
