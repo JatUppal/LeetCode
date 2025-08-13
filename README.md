@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/JatUppal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JatUppal/LeetCode/tree/master/1127-last-stone-weight) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JatUppal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JatUppal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JatUppal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JatUppal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
