@@ -5,18 +5,17 @@ class Solution:
         if endWord not in wordSet:
             return 0
         q = deque([(beginWord, 1)])
-
         while q:
             word, steps = q.popleft()
             if word == endWord:
                 return steps
-            for i in range((len(word))):
+            for i in range(len(word)):
                 for c in "abcdefghijklmnopqrstuvwxyz":
                     if c == word[i]:
                         continue
-                    newWord = word[:i] + c + word[i + 1:]
-                    if newWord in wordSet:
-                        q.append((newWord, steps + 1))
-                        wordSet.remove(newWord)
-
+                    new = word[:i] + c + word[i + 1:]
+                    if new in wordSet:
+                        q.append((new, steps + 1))
+                        wordSet.remove(new)
         return 0
+                    
