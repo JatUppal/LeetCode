@@ -4,7 +4,6 @@ class Solution:
         for i, num in enumerate(nums):
             comp = target - num
             if comp in seen:
-                return [seen[comp], i]
-            if num not in seen:
-                seen[num] = i
-        return []
+                return (seen[comp], i)
+            seen[num] = i
+        return None
