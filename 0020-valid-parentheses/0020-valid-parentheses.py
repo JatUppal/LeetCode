@@ -5,7 +5,9 @@ class Solution:
         for c in s:
             if c in pair.values():
                 stack.append(c)
-            if c in pair.keys():
+            elif c in pair.keys():
                 if not stack or stack.pop() != pair[c]:
                     return False
+            else:
+                return False
         return not stack
