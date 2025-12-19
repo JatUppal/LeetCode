@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/JatUppal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/JatUppal/LeetCode/tree/master/0704-binary-search) |
+| [0754-reach-a-number](https://github.com/JatUppal/LeetCode/tree/master/0754-reach-a-number) |
 | [0792-binary-search](https://github.com/JatUppal/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JatUppal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/JatUppal/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JatUppal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JatUppal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0754-reach-a-number](https://github.com/JatUppal/LeetCode/tree/master/0754-reach-a-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/JatUppal/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
