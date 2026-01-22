@@ -14,6 +14,6 @@ class Solution:
                 cur = cur.left
             cur = stack.pop()
             k -= 1
-            if 0 == k:
+            if k == 0:
                 return cur.val
             cur = cur.right
