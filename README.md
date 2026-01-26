@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JatUppal/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1387-sort-integers-by-the-power-value](https://github.com/JatUppal/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JatUppal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JatUppal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JatUppal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1387-sort-integers-by-the-power-value](https://github.com/JatUppal/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0631-design-excel-sum-formula](https://github.com/JatUppal/LeetCode/tree/master/0631-design-excel-sum-formula) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/JatUppal/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
