@@ -1,20 +1,21 @@
 class Solution:
     def getKth(self, lo: int, hi: int, k: int) -> int:
-        steps = {}
+        steps = {1:0}
         for x in range(lo, hi + 1):
-            total = 0
-            original = x
             cur = x
-            while cur != 1:
-                if cur in steps:
-                    total += steps[cur]
-                    break
+            path = []
+            while cur not in steps:
+                path.append(cur)
                 if cur % 2 == 0:
                     cur = cur // 2
                 else:
                     cur = 3 * cur + 1
-                total += 1
-            steps[original] = total
-        arr = sorted(steps, key=lambda x: (steps[x], x))
+            power = steps[cur]
+            for v in reversed(path):
+                power += 1
+                steps[v] = power
+
+        arr = list(range(lo, hi + 1))
+        arr.sort(key=lambda x: (steps[x], x))
         return arr[k-1]
         
