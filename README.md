@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/JatUppal/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/JatUppal/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/JatUppal/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0282-expression-add-operators](https://github.com/JatUppal/LeetCode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/JatUppal/LeetCode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/JatUppal/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatUppal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JatUppal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JatUppal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0282-expression-add-operators](https://github.com/JatUppal/LeetCode/tree/master/0282-expression-add-operators) |
 | [0754-reach-a-number](https://github.com/JatUppal/LeetCode/tree/master/0754-reach-a-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JatUppal/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JatUppal/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JatUppal/LeetCode/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/JatUppal/LeetCode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/JatUppal/LeetCode/tree/master/0306-additive-number) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 ## Bit Manipulation
