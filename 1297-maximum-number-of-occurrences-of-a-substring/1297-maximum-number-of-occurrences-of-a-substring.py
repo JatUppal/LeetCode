@@ -12,7 +12,6 @@ class Solution:
         best = 0                  # max frequency seen so far
 
         left = 0
-
         # Expand the window with right pointer
         for right in range(n):
             # Add s[right] into the window
@@ -20,7 +19,6 @@ class Solution:
             if count[ch] == 0:
                 unique += 1
             count[ch] += 1
-
             # Keep window size at most minSize (slide forward when too big)
             if right - left + 1 > minSize:
                 left_ch = s[left]
@@ -28,7 +26,6 @@ class Solution:
                 if count[left_ch] == 0:
                     unique -= 1
                 left += 1
-
             # When window size is exactly minSize, check constraints
             if right - left + 1 == minSize:
                 # Only count this substring if it has <= maxLetters unique chars
@@ -36,7 +33,6 @@ class Solution:
                     sub = s[left:right + 1]
                     freq[sub] += 1
                     best = max(best, freq[sub])  # update answer immediately
-
         return best
 
 
