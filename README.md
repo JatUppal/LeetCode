@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/JatUppal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JatUppal/LeetCode/tree/master/1127-last-stone-weight) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/JatUppal/LeetCode/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JatUppal/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1387-sort-integers-by-the-power-value](https://github.com/JatUppal/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JatUppal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/JatUppal/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/JatUppal/LeetCode/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/JatUppal/LeetCode/tree/master/0518-coin-change-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1387-sort-integers-by-the-power-value](https://github.com/JatUppal/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Monotonic Stack
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JatUppal/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JatUppal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/JatUppal/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Greedy
 |  |
 | ------- |
