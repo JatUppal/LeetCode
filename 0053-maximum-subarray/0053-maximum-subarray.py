@@ -4,6 +4,5 @@ class Solution:
         curr = 0
         for x in nums:
             curr = max(curr + x, x)
-            if curr > best:
-                best = curr
+            best = max(curr, best)
         return best
