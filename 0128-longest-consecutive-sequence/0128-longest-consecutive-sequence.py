@@ -7,7 +7,7 @@ class Solution:
         longest = 1
         if len(nums) == 0:
             return best
-        number = list(set(nums))
+        number = set(nums)
         numbers = sorted(number)
         for i in range(len(numbers) - 1):
             if (numbers[i] + 1) == numbers[i + 1]:
