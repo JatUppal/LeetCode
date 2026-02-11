@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/JatUppal/LeetCode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/JatUppal/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatUppal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/JatUppal/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/JatUppal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/JatUppal/LeetCode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/JatUppal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JatUppal/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/JatUppal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/JatUppal/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/JatUppal/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/JatUppal/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/JatUppal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/JatUppal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/JatUppal/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/JatUppal/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/JatUppal/LeetCode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/JatUppal/LeetCode/tree/master/0518-coin-change-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
