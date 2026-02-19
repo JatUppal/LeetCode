@@ -8,8 +8,6 @@ class Solution:
             freq[c].append(n)
         result = []
         for i in range(len(freq) - 1, 0, -1):
-            if not freq[i]:
-                continue
             j = 0
             while k > 0 and j < len(freq[i]):
                 result.append(freq[i][j])
