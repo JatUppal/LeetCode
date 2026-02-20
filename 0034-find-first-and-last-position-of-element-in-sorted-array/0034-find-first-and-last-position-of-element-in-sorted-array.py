@@ -1,0 +1,37 @@
+class Solution:
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
+        res = [-1, -1]
+        if not nums:
+            return res
+
+        def findleft():
+            l = 0
+            r = len(nums) - 1
+            ans = -1
+            while l <= r:
+                mid = (l + r) // 2
+                if nums[mid] == target:
+                    ans = mid
+                    r = mid - 1
+                elif nums[mid] > target:
+                    r = mid - 1
+                else:
+                    l = mid + 1
+            return ans
+        def findright():
+            l = 0
+            r = len(nums) - 1
+            ans = -1
+            while l <= r:
+                mid = (l + r) // 2
+                if nums[mid] == target:
+                    ans = mid
+                    l = mid + 1
+                elif nums[mid] > target:
+                    r = mid - 1
+                else:
+                    l = mid + 1
+            return ans
+        res[0] = findleft()
+        res[1] = findright()
+        return res
