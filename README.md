@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-ships-in-a-rectangle](https://github.com/JatUppal/LeetCode/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
+| [1539-kth-missing-positive-number](https://github.com/JatUppal/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JatUppal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/JatUppal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/JatUppal/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1539-kth-missing-positive-number](https://github.com/JatUppal/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Greedy
 |  |
 | ------- |
