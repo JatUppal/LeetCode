@@ -1,4 +1,3 @@
-from collections import defaultdict
 from collections import Counter
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
