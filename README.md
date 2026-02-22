@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/JatUppal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JatUppal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/JatUppal/LeetCode/tree/master/0792-binary-search) |
+| [0845-longest-mountain-in-array](https://github.com/JatUppal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/JatUppal/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JatUppal/LeetCode/tree/master/1127-last-stone-weight) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/JatUppal/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/JatUppal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0845-longest-mountain-in-array](https://github.com/JatUppal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/JatUppal/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/JatUppal/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JatUppal/LeetCode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/JatUppal/LeetCode/tree/master/0518-coin-change-ii) |
+| [0845-longest-mountain-in-array](https://github.com/JatUppal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1387-sort-integers-by-the-power-value](https://github.com/JatUppal/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -544,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/JatUppal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/JatUppal/LeetCode/tree/master/0735-asteroid-collision) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/JatUppal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
