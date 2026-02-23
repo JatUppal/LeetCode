@@ -1,13 +1,15 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        self.res = []
-        self.backtrack(nums, 0)
-        return self.res
-    def backtrack(self, nums: List[int], idx: int):
-        if idx == len(nums):
-            self.res.append(nums[:])
-            return
-        for i in range(idx, len(nums)):
-            nums[idx], nums[i] = nums[i], nums[idx]
-            self.backtrack(nums, idx + 1)
-            nums[idx], nums[i] = nums[i], nums[idx]
+        res = []
+        def backtrack(i : int):
+            if i == len(nums):
+                return res.append(nums.copy())
+            for j in range(i, len(nums)):
+                # Swap (make change)
+                nums[i], nums[j] = nums[j], nums[i]
+                # Recurse
+                backtrack(i + 1)
+                # Undo change
+                nums[i], nums[j] = nums[j], nums[i]
+        backtrack(0)
+        return res
