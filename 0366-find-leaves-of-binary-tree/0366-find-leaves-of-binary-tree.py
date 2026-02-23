@@ -10,12 +10,10 @@ class Solution:
         def dfs(node):
             if not node:
                 return -1
-            left = dfs(node.left)
-            right = dfs(node.right)
-            height = max(left, right) + 1
-            if height == len(res):
+            h = 1 + max(dfs(node.left), dfs(node.right))
+            if len(res) == h:
                 res.append([])
-            res[height].append(node.val)
-            return height
+            res[h].append(node.val)
+            return h
         dfs(root)
         return res
