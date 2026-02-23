@@ -15,5 +15,6 @@ class Solution:
                 res.append([])
             res[h].append(node.val)
             return h
+
         dfs(root)
         return res
