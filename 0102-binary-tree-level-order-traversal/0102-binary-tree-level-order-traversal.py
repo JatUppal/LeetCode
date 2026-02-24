@@ -17,10 +17,10 @@ class Solution:
             level = []
             for _ in range(qlen):
                 node = q.popleft()
+                level.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-                level.append(node.val)
             res.append(level)
         return res
