@@ -8,9 +8,9 @@ class Solution:
         for n, c in count.items():
             freq[c].append(n)
         for i in range(len(freq) - 1, 0, -1):
-            for num in freq[i]:
-                if k > 0:
-                    res.append(num)
-                    k -= 1
-                if k == 0:
-                    return res
+            j = 0
+            while k > 0 and j < len(freq[i]):
+                res.append(freq[i][j])
+                k -= 1
+                j += 1
+        return res
