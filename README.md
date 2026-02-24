@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-ships-in-a-rectangle](https://github.com/JatUppal/LeetCode/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/JatUppal/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/JatUppal/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
+| [1480-running-sum-of-1d-array](https://github.com/JatUppal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/JatUppal/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JatUppal/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JatUppal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/JatUppal/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/JatUppal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
