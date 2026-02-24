@@ -17,4 +17,3 @@ class Solution:
                 e += 1
             maxRooms = max(rooms, maxRooms)
         return maxRooms
-            
