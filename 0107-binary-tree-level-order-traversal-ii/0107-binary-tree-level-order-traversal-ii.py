@@ -8,14 +8,14 @@ from collections import deque
 class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
         q = deque()
-        res = []
         if not root:
-            return res
+            return []
         q.append(root)
+        res = []
         while q:
-            qLen = len(q)
+            qlen = len(q)
             level = []
-            for i in range(qLen):
+            for _ in range(qlen):
                 node = q.popleft()
                 level.append(node.val)
                 if node.left:
