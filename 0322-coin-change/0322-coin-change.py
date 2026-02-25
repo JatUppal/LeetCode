@@ -4,7 +4,6 @@ class Solution:
         a[0] = 0
         for i in range(1, amount + 1):
             for coin in coins:
-                difference = a[i] - coin
                 if i - coin >= 0:
                     a[i] = min(a[i], a[i - coin] + 1)
         if a[amount] != float("infinity"):
