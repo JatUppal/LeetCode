@@ -6,7 +6,7 @@ class Solution:
             mid = (l + r) // 2
             if nums[mid] == target:
                 return mid
-            if nums[l] <= nums[mid]:
+            elif nums[l] <= nums[mid]:
                 if nums[l] <= target < nums[mid]:
                     r = mid - 1
                 else:
@@ -17,3 +17,4 @@ class Solution:
                 else:
                     r = mid - 1
         return -1
+                
