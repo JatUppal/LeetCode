@@ -4,7 +4,7 @@ class Solution:
         for a in asteroids:
             alive = True
             if a < 0:
-                while alive and res and res[-1] > 0:
+                while res and alive and res[-1] > 0:
                     if -a > res[-1]:
                         res.pop()
                     elif -a < res[-1]:
@@ -15,4 +15,3 @@ class Solution:
             if alive:
                 res.append(a)
         return res
-        
