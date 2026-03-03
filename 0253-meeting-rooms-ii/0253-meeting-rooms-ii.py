@@ -14,6 +14,6 @@ class Solution:
                 s += 1
             else:
                 rooms -= 1
-                e += 1
+                e +=1
             maxRooms = max(rooms, maxRooms)
         return maxRooms
