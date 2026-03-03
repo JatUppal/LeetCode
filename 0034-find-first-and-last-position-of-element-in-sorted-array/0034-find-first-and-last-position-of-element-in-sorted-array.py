@@ -20,18 +20,17 @@ class Solution:
         def findright():
             l = 0
             r = len(nums) - 1
-            left = -1
+            right = -1
             while l <= r:
                 mid = (l + r) // 2
                 if nums[mid] == target:
-                    left = mid
+                    right = mid
                     l = mid + 1
                 elif nums[mid] > target:
                     r = mid - 1
                 else:
                     l = mid + 1
-            return left
-
+            return right
         res[0] = findleft()
         res[1] = findright()
         return res
