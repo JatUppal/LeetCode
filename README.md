@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/JatUppal/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/JatUppal/LeetCode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/JatUppal/LeetCode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/JatUppal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JatUppal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/JatUppal/LeetCode/tree/master/0752-open-the-lock) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JatUppal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/JatUppal/LeetCode/tree/master/0621-task-scheduler) |
 | [0631-design-excel-sum-formula](https://github.com/JatUppal/LeetCode/tree/master/0631-design-excel-sum-formula) |
+| [0721-accounts-merge](https://github.com/JatUppal/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/JatUppal/LeetCode/tree/master/0752-open-the-lock) |
 | [1023-time-based-key-value-store](https://github.com/JatUppal/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/JatUppal/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/JatUppal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JatUppal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0631-design-excel-sum-formula](https://github.com/JatUppal/LeetCode/tree/master/0631-design-excel-sum-formula) |
+| [0721-accounts-merge](https://github.com/JatUppal/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/JatUppal/LeetCode/tree/master/0752-open-the-lock) |
 | [1023-time-based-key-value-store](https://github.com/JatUppal/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JatUppal/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JatUppal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/JatUppal/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/JatUppal/LeetCode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/JatUppal/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JatUppal/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1387-sort-integers-by-the-power-value](https://github.com/JatUppal/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/JatUppal/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/JatUppal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/JatUppal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/JatUppal/LeetCode/tree/master/0721-accounts-merge) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JatUppal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -518,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/JatUppal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0617-merge-two-binary-trees](https://github.com/JatUppal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/JatUppal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/JatUppal/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/JatUppal/LeetCode/tree/master/0752-open-the-lock) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JatUppal/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -590,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/JatUppal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/JatUppal/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/JatUppal/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/JatUppal/LeetCode/tree/master/0721-accounts-merge) |
 ## Interactive
 |  |
 | ------- |
