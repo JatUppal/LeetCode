@@ -11,7 +11,7 @@ class Solution:
             if not node:
                 return -1
             h = 1 + max(dfs(node.left), dfs(node.right))
-            if len(res) == h:
+            if h == len(res):
                 res.append([])
             res[h].append(node.val)
             return h
