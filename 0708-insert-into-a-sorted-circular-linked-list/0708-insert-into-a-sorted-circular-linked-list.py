@@ -18,7 +18,7 @@ class Solution:
             if prev.val <= insertVal <= curr.val:
                 break
             elif prev.val > curr.val:
-                if insertVal >= prev.val or insertVal <= curr.val:
+                if prev.val <= insertVal or insertVal <= curr.val:
                     break
             prev = curr
             curr = curr.next
@@ -26,4 +26,3 @@ class Solution:
                 break
         prev.next = Node(insertVal, curr)
         return head
-        
