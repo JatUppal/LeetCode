@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JatUppal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/JatUppal/LeetCode/tree/master/0621-task-scheduler) |
 | [0631-design-excel-sum-formula](https://github.com/JatUppal/LeetCode/tree/master/0631-design-excel-sum-formula) |
+| [0641-design-circular-deque](https://github.com/JatUppal/LeetCode/tree/master/0641-design-circular-deque) |
 | [0658-find-k-closest-elements](https://github.com/JatUppal/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/JatUppal/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/JatUppal/LeetCode/tree/master/0704-binary-search) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/JatUppal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/JatUppal/LeetCode/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/JatUppal/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0641-design-circular-deque](https://github.com/JatUppal/LeetCode/tree/master/0641-design-circular-deque) |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/JatUppal/LeetCode/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/JatUppal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JatUppal/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/JatUppal/LeetCode/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/JatUppal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0631-design-excel-sum-formula](https://github.com/JatUppal/LeetCode/tree/master/0631-design-excel-sum-formula) |
+| [0641-design-circular-deque](https://github.com/JatUppal/LeetCode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JatUppal/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JatUppal/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/JatUppal/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JatUppal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatUppal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/JatUppal/LeetCode/tree/master/0641-design-circular-deque) |
 ## Monotonic Queue
 |  |
 | ------- |
