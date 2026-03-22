@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JatUppal/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatUppal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/JatUppal/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/JatUppal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/JatUppal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/JatUppal/LeetCode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/JatUppal/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JatUppal/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JatUppal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0282-expression-add-operators](https://github.com/JatUppal/LeetCode/tree/master/0282-expression-add-operators) |
+| [0412-fizz-buzz](https://github.com/JatUppal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/JatUppal/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/JatUppal/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0754-reach-a-number](https://github.com/JatUppal/LeetCode/tree/master/0754-reach-a-number) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JatUppal/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/JatUppal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/JatUppal/LeetCode/tree/master/0735-asteroid-collision) |
 ## Enumeration
 |  |
